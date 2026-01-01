@@ -5,6 +5,9 @@
 		},
 		"todo": {
 			"latestUrl": "https://raw.githubusercontent.com/trevnetlabs/trevnet-app-registry/main/apps/todo/latest.json"
+		},
+		"finishline": {
+			"latestUrl": "https://raw.githubusercontent.com/trevnetlabs/trevnet-app-registry/main/apps/finishline/latest.json"
 		}
 	}
 }
